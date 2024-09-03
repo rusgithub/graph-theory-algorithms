@@ -1,0 +1,15 @@
+{
+  "name": "graph-theory-algorithms",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "all-pairs-short-path.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "priority-queue": "^0.2.1"
+  }
+}
